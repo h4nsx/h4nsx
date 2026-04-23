@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Web Developer • Automation Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuan-hung-vo-5822b1374">
+  <a href="https://linkedin.com/in/hans-vo">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:votuanhung12052006@gmail.com">
