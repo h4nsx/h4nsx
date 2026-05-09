@@ -1,16 +1,15 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Võ Tuấn Hùng (Hans)</h1>
-<h3 align="center">Full-Stack Web Developer • Automation Engineer</h3>
+# Hi, I'm Võ Tuấn Hùng (Hans)
+### Backend Engineer · AI Automation · Hackathon Builder
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/hans-vo">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:votuanhung1205.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hans-orpin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -18,35 +17,36 @@
 
 ## About Me
 
-Information Technology student based in Ho Chi Minh City with a strong focus on building production-ready full-stack web applications and automation systems. Actively seeking collaboration on meaningful technical projects and continuously improving both system design and engineering skills.
+Final-year Information Technology student based in Ho Chi Minh City with a strong focus on building backend systems and automation pipelines. Hackathon-driven, with multiple awards across Vietnam and real-world internship experience. Actively seeking backend engineering opportunities and meaningful technical collaborations.
 
 Key focus areas:
-- Full-Stack Web Development  
-- Automation & System Integration  
-- Scalable Application Architecture  
-- Continuous Learning & Professional Growth  
+- Backend Engineering & RESTful API Design
+- AI & Automation System Integration
+- Machine Learning Pipeline Development
+- Continuous Learning & Professional Growth
 
 ---
 
 ## Technical Skills
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![.NET Core](https://img.shields.io/badge/.NET_Core-black?style=for-the-badge&logo=dotnet)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
@@ -54,43 +54,43 @@ Key focus areas:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **SafeSwap** | Secure token swapping platform with real-time transactions | Web3, React, Node.js, WebSocket |
-| **RugPull Detection** | Scam token detection system using smart-contract analysis | Web3, React, Node.js |
-| **Personal Portfolio** | Professional developer portfolio website | React, Tailwind CSS |
+| **[Vyn Logistic](https://github.com/h4nsx/Vyn-Logistic)** | Process intelligence platform processing 5,800+ real-world logistics events with ML-based anomaly detection | FastAPI, MongoDB, Redis, Celery, Docker, scikit-learn |
+| **[SafeSwap](https://github.com/h4nsx/SafeSwap-Token)** | Secure DeFi platform with real-time on-chain RugPull detection — Outstanding Student Team, Vietnam Aptos Hackathon 2025 | Node.js, FastAPI, MongoDB, Aptos Blockchain, ML |
+| **Real-Time Health Monitor** | Embedded biometric monitoring device — 3rd Prize, Ba Ria–Vung Tau Provincial Science Fair 2021 | C/C++, Arduino, I2C Protocol |
 
 ---
 
 ## Professional Highlights
 
-- Designed and deployed multiple full-stack web platforms for real-world use cases  
-- Implemented secure authentication systems, APIs, and real-time communication  
-- Built scalable frontend–backend architectures with clean code practices  
-- Strong problem-solving mindset with a product-oriented approach  
+- Led cross-functional hackathon teams of 4–5 engineers to build and ship production-ready systems under tight deadlines
+- Architected ML inference backends using FastAPI and Isolation Forest models for real-time detection
+- Built AI-driven automation workflows integrating social media APIs during internship at NB-Global Group (Remote, US)
+- Strong foundation in Data Structures and Algorithms with multiple competitive programming certifications
 
 ---
 
 ## Core Competencies
 
-- Full-Stack Web Application Development  
-- REST API Design & System Integration  
-- Automation Engineering  
-- Authentication & Role-Based Access Control  
-- Performance Optimization & Debugging  
-- UI/UX Implementation from Design Systems  
+- REST API Design & Backend Architecture
+- Machine Learning Integration & Data Pipelines
+- Automation Engineering (n8n, Make, Webhooks)
+- Database Schema Design (SQL & NoSQL)
+- Authentication & Security (OAuth, JWT)
+- Blockchain / Web3 Integration
 
 ---
 
 ## Current Focus
 
-- Advanced React Architecture  
-- System Design Fundamentals  
-- DevOps, Docker & CI/CD Pipelines  
+- System Design & Scalable Architecture
+- Advanced DSA for Competitive Engineering
+- DevOps, Docker & CI/CD Pipelines
 
 ---
 
 ## Collaboration
 
-Open to freelance opportunities, startup ideas, and long-term technical partnerships. Interested in building sustainable, production-grade software products with clear business value.
+Open to backend engineering roles, internship opportunities, and long-term technical partnerships. Interested in building impactful, high-performance systems with clear real-world value.
 
 ---
 
