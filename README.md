@@ -1,6 +1,6 @@
 <div align="center">
 
-# Võ Tuấn Hùng
+<img src="./assets/name-wordmark.svg" width="680" alt="Võ Tuấn Hùng" />
 
 **Software Engineer**
 
