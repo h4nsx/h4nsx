@@ -1,10 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
   <title id="title">Võ Tuấn Hùng</title>
   <desc id="desc">Võ Tuấn Hùng — Software Engineer</desc>
-  <rect width="900" height="150" fill="none"/>
-  <text x="450" y="78" text-anchor="middle"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="60" font-weight="400" letter-spacing="1.2"
-        fill="#172B45">Võ Tuấn Hùng</text>
-  <path d="M390 108 H510" stroke="#9AAABD" stroke-width="1"/>
+  <g fill="#DCE7F3" transform="translate(186.40,112) scale(0.088,-0.088)">
+    <path d="M0 0L0 0" transform="translate(0,0)"/>
+  </g>
+  <path d="M390 128 H510" stroke="#8FA8C2" stroke-width="1"/>
 </svg>
