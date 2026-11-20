@@ -22,16 +22,23 @@ I enjoy working across the lifecycle — understanding a problem, designing the 
 
 ## Selected Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 01 — OptiLog
+
 **Logistics Process Intelligence**
 
 An AI-powered platform that turns logistics event logs into operational insight. It reconstructs workflows from uploaded data and surfaces process anomalies, bottlenecks, and risk patterns without requiring users to manually define each workflow.
 
 [Repository](https://github.com/h4nsx/Vyn-Logistic) · [Live demo](https://vyn-logistic.vercel.app)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 02 — YOLO-Mamba
+
 **Edge AI Research**
 
 Research into replacing YOLO11s' self-attention block with a 2D selective state-space module for warehouse object detection on constrained hardware.
@@ -40,9 +47,13 @@ The experiments examine a key trade-off: fewer parameters and lower theoretical 
 
 [Research repository](https://github.com/h4nsx/nckh)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 03 — SafeSwap
+
 **Aptos DeFi Safety**
 
 A token-swapping experience for the Aptos ecosystem with scam detection to help users assess token risk before interacting with a swap.
@@ -51,14 +62,20 @@ I contributed as team leader, focusing on machine-learning direction and team co
 
 [Repository](https://github.com/h4nsx/SafeSwap-Token)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 04 — Global AI Brain
+
 **Smart Warehouse Perception**
 
 An intelligent warehouse concept focused on multi-camera perception and a shared spatial understanding of warehouse activity.
 
 The system explores how camera streams can support tracking of workers, forklifts, autonomous mobile robots, and pallet trucks.
+
+</td>
+</tr>
+</table>
 
 ## Engineering Interests
 
