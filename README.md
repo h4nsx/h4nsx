@@ -26,7 +26,7 @@ I enjoy working across the lifecycle — understanding a problem, designing the 
 <tr>
 <td width="50%" valign="top">
 
-### 01 — OptiLog
+### 01 — Vyn Logistic
 
 **Logistics Process Intelligence**
 
